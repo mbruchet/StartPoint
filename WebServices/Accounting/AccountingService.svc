@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="StartPoint.ERP.AccountingRule.Wcf.AccountingService" CodeBehind="AccountingService.svc.cs" %>

@@ -1,0 +1,1 @@
+﻿<%@ ServiceHost Language="C#" Debug="true" Service="StartPoint.Security.Wcf.MemberShipProviderService" CodeBehind="MemberShipProviderService.svc.cs" %>
